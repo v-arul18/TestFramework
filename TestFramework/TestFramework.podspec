@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "TestFramework"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "cool framework i'm just trying out lol rawr xD"
 
   spec.description  = "whatever this is fine it's okay"
@@ -22,7 +22,7 @@ Pod::Spec.new do |spec|
  
   spec.source       = { :git => "https://github.com/v-arul18/TestFramework.git", :tag => spec.version.to_s }
 
-  spec.source_files  = "TestFramework/**/*.{h,m,swift}"
+  spec.source_files  = "TestFramework/**/*.{swift}"
   
 
   # spec.framework  = "SomeFramework"
@@ -32,10 +32,10 @@ Pod::Spec.new do |spec|
   # spec.libraries = "iconv", "xml2"
 
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
-  # spec.dependency "JSONKit", "~> 1.4"
+  spec.dependency "GoogleSignIn"
   spec.swift_versions = "5.0"
   
-  s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64 i386' }
-  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64 i386' }
+  spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64 i386' }
+  spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64 i386' }
 
 end
