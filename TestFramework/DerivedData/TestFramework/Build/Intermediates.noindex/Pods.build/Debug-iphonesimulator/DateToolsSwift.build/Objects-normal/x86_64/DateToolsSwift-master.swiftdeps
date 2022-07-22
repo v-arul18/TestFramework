@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "b222195cfe4d990d84aa05ba7e981a8b"
+build_time: [1658518819, 266143000]
+inputs:
+  "/Users/varaarul/onymos2022/TestFramework/TestFramework/Pods/DateToolsSwift/DateToolsSwift/DateTools/Constants.swift": [1658513539, 425651114]
+  "/Users/varaarul/onymos2022/TestFramework/TestFramework/Pods/DateToolsSwift/DateToolsSwift/DateTools/Date+Bundle.swift": [1658513539, 428314609]
+  "/Users/varaarul/onymos2022/TestFramework/TestFramework/Pods/DateToolsSwift/DateToolsSwift/DateTools/Date+Comparators.swift": [1658513539, 427503760]
+  "/Users/varaarul/onymos2022/TestFramework/TestFramework/Pods/DateToolsSwift/DateToolsSwift/DateTools/Date+Components.swift": [1658513539, 426578450]
+  "/Users/varaarul/onymos2022/TestFramework/TestFramework/Pods/DateToolsSwift/DateToolsSwift/DateTools/Date+Format.swift": [1658513539, 425905715]
+  "/Users/varaarul/onymos2022/TestFramework/TestFramework/Pods/DateToolsSwift/DateToolsSwift/DateTools/Date+Inits.swift": [1658513539, 427769410]
+  "/Users/varaarul/onymos2022/TestFramework/TestFramework/Pods/DateToolsSwift/DateToolsSwift/DateTools/Date+Manipulations.swift": [1658513539, 426117233]
+  "/Users/varaarul/onymos2022/TestFramework/TestFramework/Pods/DateToolsSwift/DateToolsSwift/DateTools/Date+TimeAgo.swift": [1658513539, 427948709]
+  "/Users/varaarul/onymos2022/TestFramework/TestFramework/Pods/DateToolsSwift/DateToolsSwift/DateTools/Enums.swift": [1658513539, 426950538]
+  "/Users/varaarul/onymos2022/TestFramework/TestFramework/Pods/DateToolsSwift/DateToolsSwift/DateTools/Integer+DateTools.swift": [1658513539, 428136864]
+  "/Users/varaarul/onymos2022/TestFramework/TestFramework/Pods/DateToolsSwift/DateToolsSwift/DateTools/TimeChunk.swift": [1658513539, 427123976]
+  "/Users/varaarul/onymos2022/TestFramework/TestFramework/Pods/DateToolsSwift/DateToolsSwift/DateTools/TimePeriod.swift": [1658513539, 426353490]
+  "/Users/varaarul/onymos2022/TestFramework/TestFramework/Pods/DateToolsSwift/DateToolsSwift/DateTools/TimePeriodChain.swift": [1658513539, 427297618]
+  "/Users/varaarul/onymos2022/TestFramework/TestFramework/Pods/DateToolsSwift/DateToolsSwift/DateTools/TimePeriodCollection.swift": [1658513539, 428490962]
+  "/Users/varaarul/onymos2022/TestFramework/TestFramework/Pods/DateToolsSwift/DateToolsSwift/DateTools/TimePeriodGroup.swift": [1658513539, 426762181]

@@ -1,0 +1,81 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "f6903c963b1c6043738e391b7b77b89a758cc842172da540ffb591e63e38dc1e"
+    },
+    {
+      "guid" : "f6903c963b1c6043738e391b7b77b89a0be6c76e7b3dde057d7e3e6ad61f30d4"
+    },
+    {
+      "guid" : "f6903c963b1c6043738e391b7b77b89add3a6a519ed4181bf31ea6bc1f18ebc5"
+    },
+    {
+      "guid" : "f6903c963b1c6043738e391b7b77b89a9b0ee9a6d93c0cfa024bbc34a88b2122"
+    },
+    {
+      "guid" : "f6903c963b1c6043738e391b7b77b89a32c61b747d3949a8e639c0653b6048d5"
+    },
+    {
+      "guid" : "f6903c963b1c6043738e391b7b77b89aff8c323c0fe364d87b0c231d889775df"
+    },
+    {
+      "guid" : "f6903c963b1c6043738e391b7b77b89a85a1aff1e550ad28a3817b863ff4f56c"
+    },
+    {
+      "guid" : "8938f7f147b10002338a43cac61599918e58410552434a399032b9c85a28d221"
+    },
+    {
+      "guid" : "8938f7f147b10002338a43cac61599911ec5d509f14aa0af6442433d086b6d47"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator14.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Build/Products",
+      "derivedDataPath" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPod9,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "3A43FB84-3C4B-447B-A3BD-267984A75EFF",
+          "TARGET_DEVICE_MODEL" : "iPod9,1",
+          "TARGET_DEVICE_OS_VERSION" : "14.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

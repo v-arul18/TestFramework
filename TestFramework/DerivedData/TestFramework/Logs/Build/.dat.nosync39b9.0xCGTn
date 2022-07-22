@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>188EF27D-B636-464F-87BB-09737513E9C1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>188EF27D-B636-464F-87BB-09737513E9C1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestFramework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestFramework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestFramework</string>
+			<key>timeStartedRecording</key>
+			<real>680208354.40305197</real>
+			<key>timeStoppedRecording</key>
+			<real>680208354.47851598</real>
+			<key>title</key>
+			<string>Build TestFramework</string>
+			<key>uniqueIdentifier</key>
+			<string>188EF27D-B636-464F-87BB-09737513E9C1</string>
+		</dict>
+		<key>C5787041-EBD0-4056-AEE3-6CE88A3F6B07</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C5787041-EBD0-4056-AEE3-6CE88A3F6B07.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestFramework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestFramework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archiving project TestFramework with scheme TestFramework</string>
+			<key>timeStartedRecording</key>
+			<real>680208365.08158803</real>
+			<key>timeStoppedRecording</key>
+			<real>680208365.897802</real>
+			<key>title</key>
+			<string>Archiving project TestFramework with scheme TestFramework</string>
+			<key>uniqueIdentifier</key>
+			<string>C5787041-EBD0-4056-AEE3-6CE88A3F6B07</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

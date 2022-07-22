@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1E59BC23-D2CA-4F22-B41D-8C990B3F02C1</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1E59BC23-D2CA-4F22-B41D-8C990B3F02C1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestFramework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestFramework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archiving project TestFramework with scheme TestFramework</string>
+			<key>timeStartedRecording</key>
+			<real>680208182.372684</real>
+			<key>timeStoppedRecording</key>
+			<real>680208186.04235899</real>
+			<key>title</key>
+			<string>Archiving project TestFramework with scheme TestFramework</string>
+			<key>uniqueIdentifier</key>
+			<string>1E59BC23-D2CA-4F22-B41D-8C990B3F02C1</string>
+		</dict>
+		<key>5768C104-D32E-49F0-9345-704EB0166FAF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5768C104-D32E-49F0-9345-704EB0166FAF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestFramework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestFramework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestFramework</string>
+			<key>timeStartedRecording</key>
+			<real>680206038.51392698</real>
+			<key>timeStoppedRecording</key>
+			<real>680206039.23315299</real>
+			<key>title</key>
+			<string>Build TestFramework</string>
+			<key>uniqueIdentifier</key>
+			<string>5768C104-D32E-49F0-9345-704EB0166FAF</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

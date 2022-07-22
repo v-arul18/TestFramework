@@ -1,0 +1,45 @@
+BCSymbolMap Version: 2.0
+Apple clang version 12.0.5 (clang-1205.0.22.11)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk
+iPhoneOS14.5.sdk
+/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Build/Intermediates.noindex/ArchiveIntermediates/TestFramework/IntermediateBuildFilesPath/TestFramework.build/Release-iphoneos/TestFramework.build/DerivedSources/TestFramework_vers.c
+/Users/varaarul/onymos2022/TestFramework/TestFramework
+___swift_instantiateConcreteTypeFromMangledName
+_symbolic _____yypG s23_ContiguousArrayStorageC
+_$ss23_ContiguousArrayStorageCyypGMD
+__METACLASS_DATA__TtC13TestFramework7Printer
+__DATA__TtC13TestFramework7Printer
+_$s13TestFrameworkMXM
+_$s13TestFramework7PrinterCMf
+_symbolic _____ 13TestFramework7PrinterC
+_$s13TestFramework7PrinterCMF
+__swift_FORCE_LOAD_$_swiftFoundation_$_TestFramework
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_TestFramework
+__swift_FORCE_LOAD_$_swiftDarwin_$_TestFramework
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_TestFramework
+__swift_FORCE_LOAD_$_swiftDispatch_$_TestFramework
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_TestFramework
+__swift_FORCE_LOAD_$_swiftUIKit_$_TestFramework
+__swift_FORCE_LOAD_$_swiftCoreImage_$_TestFramework
+__swift_FORCE_LOAD_$_swiftMetal_$_TestFramework
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_TestFramework
+___swift_reflection_version
+_objc_classes
+_$s13TestFramework7PrinterCACycfCTq
+Apple clang version 12.0.5 (clang-1205.0.19.57)
+<swift-imported-modules>
+Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)
+/Users/varaarul/onymos2022/TestFramework/TestFramework/TestFramework/Printer.swift
+$s13TestFramework7PrinterCMa
+<compiler-generated>
+deinit
+GoogleTest
+_allocateUninitializedArray
+$sSa13_adoptStorage_5countSayxG_SpyxGts016_ContiguousArrayB0CyxGn_SitFZyp_Tg5
++
+$ss22_ContiguousArrayBufferV19firstElementAddressSpyxGvgyp_Tg5
+$ss22_ContiguousArrayBufferV5count7storageAByxGSi_s01_aB7StorageCyxGtcfCyp_Tg5
+$ss22_ContiguousArrayBufferV18_initStorageHeader5count8capacityySi_SitFyp_Tg5
+init
+__swift_instantiateConcreteTypeFromMangledName
+helloMessage

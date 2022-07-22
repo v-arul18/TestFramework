@@ -1,0 +1,75 @@
+{
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "8938f7f147b10002338a43cac61599918e58410552434a399032b9c85a28d221"
+    }
+  ],
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "install",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator14.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "i386",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Build/Products",
+      "derivedDataPath" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "BUILD_LIBRARY_FOR_DISTRIBUTION" : "YES",
+          "SDKROOT" : "iphonesimulator14.5",
+          "SKIP_INSTALL" : "NO"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "install",
+          "ASSET_PACK_FOLDER_PATH" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Build/Intermediates.noindex/ArchiveIntermediates/TestFramework/InstallationBuildProductsLocation/OnDemandResources",
+          "BITCODE_GENERATION_MODE" : "bitcode",
+          "COLOR_DIAGNOSTICS" : "YES",
+          "DEPLOYMENT_LOCATION" : "YES",
+          "DEPLOYMENT_POSTPROCESSING" : "YES",
+          "diagnostic_message_length" : "151",
+          "DSTROOT" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Build/Intermediates.noindex/ArchiveIntermediates/TestFramework/InstallationBuildProductsLocation",
+          "EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE" : "NO",
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ENABLE_DATA_STORE" : "NO",
+          "MESSAGES_APPLICATION_EXTENSION_SUPPORT_FOLDER_PATH" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Build/Intermediates.noindex/ArchiveIntermediates/TestFramework/BuildProductsPath/MessagesApplicationExtensionSupport",
+          "MESSAGES_APPLICATION_SUPPORT_FOLDER_PATH" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Build/Intermediates.noindex/ArchiveIntermediates/TestFramework/BuildProductsPath/MessagesApplicationSupport",
+          "OBJROOT" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Build/Intermediates.noindex/ArchiveIntermediates/TestFramework/IntermediateBuildFilesPath",
+          "SHARED_PRECOMPS_DIR" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Build/Intermediates.noindex/ArchiveIntermediates/TestFramework/PrecompiledHeaders",
+          "SWIFT_STDLIB_TOOL_UNSIGNED_DESTINATION_DIR" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Build/Intermediates.noindex/ArchiveIntermediates/TestFramework/BuildProductsPath/SwiftSupport",
+          "SYMROOT" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Build/Intermediates.noindex/ArchiveIntermediates/TestFramework/BuildProductsPath",
+          "WATCHKIT_2_SUPPORT_FOLDER_PATH" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Build/Intermediates.noindex/ArchiveIntermediates/TestFramework/BuildProductsPath/WatchKitSupport2",
+          "WATCHKIT_SUPPORT_FOLDER_PATH" : "/Users/varaarul/onymos2022/TestFramework/TestFramework/DerivedData/TestFramework/Build/Intermediates.noindex/ArchiveIntermediates/TestFramework/BuildProductsPath/WatchKitSupport"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "archive",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
