@@ -2,19 +2,13 @@
 //  Printer.swift
 //  TestFramework
 //
-//  Created by Vara Arul on 7/21/22.
+//  Created by Vara Arul on 7/22/22.
 //
 
 import Foundation
 
-
-
-public struct Printer {
+public class Printer {
     public static func helloMessage() {
-        print("Hello all testing testing 123")
-       
+        print("Hello hello testing testing 123")
     }
-    
-    
-    
 }
