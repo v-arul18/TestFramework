@@ -6,6 +6,8 @@
 //
 
 #import <Foundation/Foundation.h>
+//#import "Frameworks/GoogleSignIn/GoogleSignIn/Sources/Public/GoogleSignIn/GIDSignIn.h"
+#import <TestFramework/TestFramework.h>
 
 //! Project version number for TestFramework.
 FOUNDATION_EXPORT double TestFrameworkVersionNumber;

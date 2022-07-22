@@ -1,4 +1,0 @@
-Target dependency graph (2 targets)
-TestFramework in TestFramework
-TestFrameworkTests in TestFramework, depends on:
-TestFramework in TestFramework (explicit)
