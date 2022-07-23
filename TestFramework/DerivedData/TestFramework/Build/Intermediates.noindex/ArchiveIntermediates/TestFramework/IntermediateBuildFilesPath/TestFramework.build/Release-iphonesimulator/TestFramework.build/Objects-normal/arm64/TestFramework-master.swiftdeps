@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "f8d38ad378a1d0bbab2f2aea4ee4a48a"
+build_time: [1658534481, 230916000]
+inputs:
+  "/Users/varaarul/onymos2022/TestFramework/TestFramework/TestFramework/Printer.swift": [9223372036, 854775807]
