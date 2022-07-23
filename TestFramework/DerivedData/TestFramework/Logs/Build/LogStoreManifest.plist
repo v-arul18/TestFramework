@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>0A93FEC8-0EF3-4A91-8967-A6F5CF7AE38D</key>
+		<key>190BD14D-160B-4D11-A5AA-C434B108DBAB</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0A93FEC8-0EF3-4A91-8967-A6F5CF7AE38D.xcactivitylog</string>
+			<string>190BD14D-160B-4D11-A5AA-C434B108DBAB.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,47 +32,13 @@
 			<key>signature</key>
 			<string>Archiving workspace TestFramework with scheme TestFramework</string>
 			<key>timeStartedRecording</key>
-			<real>680227268.91989803</real>
+			<real>680238499.15853</real>
 			<key>timeStoppedRecording</key>
-			<real>680227282.73265898</real>
+			<real>680238513.76512396</real>
 			<key>title</key>
 			<string>Archiving workspace TestFramework with scheme TestFramework</string>
 			<key>uniqueIdentifier</key>
-			<string>0A93FEC8-0EF3-4A91-8967-A6F5CF7AE38D</string>
-		</dict>
-		<key>99F8CACA-1556-44ED-BEF2-9B049D21A8E2</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>99F8CACA-1556-44ED-BEF2-9B049D21A8E2.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TestFramework project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TestFramework</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Archiving workspace TestFramework with scheme TestFramework</string>
-			<key>timeStartedRecording</key>
-			<real>680227242.74494004</real>
-			<key>timeStoppedRecording</key>
-			<real>680227254.04550195</real>
-			<key>title</key>
-			<string>Archiving workspace TestFramework with scheme TestFramework</string>
-			<key>uniqueIdentifier</key>
-			<string>99F8CACA-1556-44ED-BEF2-9B049D21A8E2</string>
+			<string>190BD14D-160B-4D11-A5AA-C434B108DBAB</string>
 		</dict>
 	</dict>
 </dict>
